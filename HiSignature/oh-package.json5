@@ -1,0 +1,10 @@
+{
+  "name": "hi-signature",
+  "version": "1.0.0",
+  "description": "签名UI组件",
+  "keywords": ["手写","签名"],
+  "main": "Index.ets",
+  "author": "monster",
+  "license": "MIT",
+  "dependencies": {}
+}
